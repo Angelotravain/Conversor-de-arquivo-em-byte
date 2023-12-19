@@ -1,0 +1,16 @@
+D:\Itens\Conversor\ConversorByte\bin\Debug\net6.0-windows\ConversorByte.exe
+D:\Itens\Conversor\ConversorByte\bin\Debug\net6.0-windows\ConversorByte.deps.json
+D:\Itens\Conversor\ConversorByte\bin\Debug\net6.0-windows\ConversorByte.runtimeconfig.json
+D:\Itens\Conversor\ConversorByte\bin\Debug\net6.0-windows\ConversorByte.dll
+D:\Itens\Conversor\ConversorByte\bin\Debug\net6.0-windows\ConversorByte.pdb
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.Form1.resources
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.csproj.GenerateResource.cache
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.AssemblyInfoInputs.cache
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.AssemblyInfo.cs
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.csproj.CoreCompileInputs.cache
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.dll
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\refint\ConversorByte.dll
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.pdb
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ConversorByte.genruntimeconfig.cache
+D:\Itens\Conversor\ConversorByte\obj\Debug\net6.0-windows\ref\ConversorByte.dll
